@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingchen Ma homepage"
+title                    : "Jingchen Ma"
 title_separator          : "-"
 name                     : &name "Jingchen Ma"
-description              : &description "Master student in UM1"
+description              : &description "Master student in Control systems, Department of Electrical % Computer engineering, University of Michigan"
 url                      : https://jingchma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jingchma.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jingchen Ma"
   avatar           : "profile.png"
-  bio              : "Master student in UM"
-  location         : "Ann Arbor"
+  bio              : "Master student in Control systems, Department of Electrical % Computer engineering, University of Michigan"
+  location         : "Ann Arbor, MI, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
