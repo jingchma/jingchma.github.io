@@ -25,7 +25,7 @@ Optimization and constrain-based control algorithms
 Education:
 ------
 MS control systems                                                                                                          
-University of Michigan 2024
+University of Michigan, 2024
 
 BS automation and economics (double major)                                                                                                                    
-Jinan University 2022
+Jinan University, 2022
