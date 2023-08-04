@@ -15,12 +15,17 @@ She has strong background in control theory and battery modeling knowledge. She 
 
 She has good programing skill of Matlab/Simulink, C, Python, and statistical analysis software Stata.
 
-Interest:                                                                                       
-Battery modeling                                                                                
+Interest:                                                                            
+------
+Battery modeling                                                                                                                                                                                                                                                                                                                                                                                                                               
 Battery state estimation                                                                        
 Advanced control strategies of energy systems                                                   
 Optimization and constrain-based control algorithms                                             
 
 Education:
-MS control systems,University of Michigan 2024
-BS automation and economics (double major), Jinan University 2022
+------
+MS control systems                                                                                                          
+University of Michigan 2024
+
+BS automation and economics (double major)                                                                                                                    
+Jinan University 2022
