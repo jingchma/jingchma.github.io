@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](https://drive.google.com/file/d/1zcS8RqZyMBWXBUMpNXx0t8gDAK3uP_8_/view?usp=sharing)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation and Economics(double major), Jinan University, 2022
+* M.S. in Control systems, Univeristy of Michigan, 2024
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2023 Research Asistant: Thru-life GHG Reduction of Electric Vehicle through Preconditioning Process
+  * Michigan University
+  * Designing the battery and GHG emission calculation model to evaluate the preconditioning benefits
+  * Supervisor: Professor Anna Stefanopoulou and Youngki Kim
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March 2023 Research Assistant: Impact of Thermal Conditioning on Battery Pack and GHG Reduction Literature Review
+  * Michigan University
+  * Reviewed the state of the art and state of practice of various preheating methods 
+  * Constructed a set of evaluation methods to compare them
+  * Supervisor: Professor Anna Stefanopoulou and Youngki Kim
   
 Skills
 ======
