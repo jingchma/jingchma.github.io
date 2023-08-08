@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](https://drive.google.com/file/d/1zcS8RqZyMBWXBUMpNXx0t8gDAK3uP_8_/view?usp=drive_link)
+======
+
 Education
 ======
 * B.S. in Automation and Economics(double major), Jinan University, 2022
