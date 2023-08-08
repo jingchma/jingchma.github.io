@@ -37,7 +37,7 @@ Research experience
   * Designed a full-driven control system and used improved Artificial Potential Field method
   * Supervisor: Professor Chao Liu
 
-rojetcs
+Projetcs
 ======
 * January 2023 Control engineer: Identifying Endangered Plant Species Using Unmanned Air Vehicles
   * FEAST project in Univeristy of Michigan
