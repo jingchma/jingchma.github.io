@@ -11,7 +11,7 @@ Jingchen is a master student of control systems at the ECE Department, Universit
 
 She currently works on the aging impact and environmental benefits of thermal preconditioning in winter condition supervised by [Prof. Anna Stefanopoulou](http://www-personal.umich.edu/~annastef/) in the [Battery Control Group](https://batterycontrolgroup.engin.umich.edu/home).
 
-She has strong background in control theory and battery modeling and state estimation knowledge. She did some hands-on work on battery management system, GHG emissions calculation and UAV control. She also has experience in typical machine learning algorithms.
+She has strong background in control theory and battery management knowledge. She did some hands-on work on battery modeling and state estimation, GHG emissions calculation and UAV control. She also has experience in typical machine learning algorithms.
 
 She has good programing skill of Matlab/Simulink, C, Python, and statistical analysis software Stata.
 
