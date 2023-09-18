@@ -23,7 +23,7 @@ Research experience
   Thru-life GHG Reduction of Electric Vehicle through Preconditioning Process  
   * Supervisor: Professor Anna Stefanopoulou and Youngki Kim, University of Michigan
   * Designing a battery electrothermal model with degradation mechanisms
-  * Evaluating the GHG emissions during the lifespan of the EV with preconditioning while plugged-in for both hot and cold climate
+  * Evaluating the GHG emissions during the lifespan of the EV with preconditioning while plugged-in for both hot and cold climates
 
 
 * March 2023 - July 2023 : Research Assistant                                                                     
