@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Jingchen is a master student of control systems at the ECE Department, University of Michigan. She is looking for a Ph.D. position. Her research is currently focused on battery thermal management and battery modeling, but she also has a broad interest in battery state estimation and diagnostics, battery-related economic and environmental assessment, Advanced control algorithms and modeling of various energy systems.
+Jingchen is a master student of control systems at the ECE Department, University of Michigan. She is looking for a Ph.D. position. Her research is currently focused on battery thermal management and battery modeling, but she also has a broad interest in battery state estimation and diagnostics, battery-related economic and environmental assessment, advanced control algorithms and modeling of various energy systems.
 
 She currently works on the aging impact and environmental benefits of thermal preconditioning in winter and hot condition supervised by [Prof. Anna Stefanopoulou](http://www-personal.umich.edu/~annastef/) in the [Battery Control Group](https://batterycontrolgroup.engin.umich.edu/home).
 
