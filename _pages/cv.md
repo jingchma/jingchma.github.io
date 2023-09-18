@@ -21,30 +21,38 @@ Research experience
 ======
 * July 2023 - Now : Research Asistant                                                                                              
   Thru-life GHG Reduction of Electric Vehicle through Preconditioning Process  
-  * Supervisor: Professor Anna Stefanopoulou and Youngki Kim, University of Michigan 
-  * Designing the electro-thermal coupled model and degradation model
-  * Evaluating the GHG emissions and economics of the whole-life electric vehicle with preconditioning
+  * Supervisor: Professor Anna Stefanopoulou and Youngki Kim, University of Michigan
+  * Designing a battery electrothermal model with degradation mechanisms
+  * Evaluating the GHG emissions during the lifespan of the EV with preconditioning while plugged-in for both hot and cold climate
+
 
 * March 2023 - July 2023 : Research Assistant                                                                     
   Impact of Thermal Conditioning on Battery Pack and GHG Reduction Literature Review
   * Supervisor: Professor Anna Stefanopoulou and Youngki Kim, University of Michigan
   * Reviewed the state of the art and state of practice of various preheating methods 
   * Constructed a set of evaluation methods to compare them across 5 dimensions
-  * Prepared to turn CRC report to an ACC paper
+  * Preparing to turn CRC report to an ACC paper
   
   
 * March 2021 - April 2022 : Research Assistant                                                         
   Incremental Capacity Analysis of Lithium Battery 
   * Supervisor: Professor Linfeng Zheng, Jinan Univeristy
   * Reviewed the 81 ICA related literature to classify the ICA-based SOH estimation methods
-  * Analyzed the influence of factors on the IC curve using the test data
+  * Analyzed the influence of various factors on the IC curve using the test data
   
  
 * April 2020 - July 2020 : Lab member                              
   UAV’s Attitude, Trajectory Tracking and Controlling Program
   * Supervisor: Professor Chao Liu, Beihang Univeristy
   * Designed a full-driven control system based on PID and Auto Disturbance Rejection controller
-  * Applied improved Artificial Potential Field method
+  * Applied improved Artificial Potential Field method to realize automatic obstacle avoidance
+
+Work Experience
+======
+* August 2023 - December 2023 : Teaching Asistant                                                 
+  ME599: Lithium Battery Engineering and Life Management
+  * Instructor: Professor Anna Stefanopoulou
+  * Responsible for preparing homework and office hours
 
 Projects
 ======
