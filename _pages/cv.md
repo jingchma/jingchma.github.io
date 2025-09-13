@@ -39,13 +39,7 @@ Research experience
   * Supervisor: Professor Linfeng Zheng, Jinan University
   * Reviewed the 81 ICA-related literature to classify the ICA-based SOH estimation methods
   * Analyzed the influence of various factors on the IC curve using the test data
-  
- 
-* April 2020 - July 2020 : Lab member                              
-  UAV’s Attitude, Trajectory Tracking and Controlling Program
-  * Supervisor: Professor Chao Liu, Beihang University
-  * Designed a full-driven control system based on PID and Auto Disturbance Rejection controller
-  * Applied improved Artificial Potential Field method to realize automatic obstacle avoidance
+
 
 Work Experience
 ======
